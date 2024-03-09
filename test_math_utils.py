@@ -1,5 +1,5 @@
 import pytest
-from math_utils import MathUtils
+from MathUtils import MathUtils
 class TestMathUtils:
     def test_add(self):
         utils = MathUtils()
